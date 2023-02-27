@@ -1,0 +1,8 @@
+https://colab.research.google.com/drive/1VIohsVr_IUHZdxskfgyYIixIteVdTfwC#scrollTo=XXHp7H1mMT6m&line=6&uniqifier=1
+
+import matplotlib.pyplot as plt
+import numpy as np
+plt.plot(x,y)
+plt.xlabel("x")
+plt.ylabel("y")
+plt.title('Parabol')
